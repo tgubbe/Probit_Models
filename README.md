@@ -1,0 +1,1 @@
+For my master's program, I was tasked with creating a linear spatial probit model and varying coefficient probit spatial model based on the data set given. I provided my PDF report distinguishing the two models as well as the creation of the models by the SAR probit package in R. 
